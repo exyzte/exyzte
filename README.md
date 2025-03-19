@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, ai, it and techno
 - 🌱 I’m currently learning JS and Bootstrap
 - 💞️ I’m looking to collaborate on a phone application 
-- 📫 How to reach me ... via email 
+- 📫 How to reach me ... via email @ abunchoflights@gmail.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... my aka on spotify, youtube, apple music ... etc...  is xyzte
 
